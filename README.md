@@ -1,8 +1,3 @@
-# guessingGame
-
-https://oshanedesign.github.io/guessingGame/
-
-
 ## Guessing Game
 
 A simple game to guess the number that was generated randomly between the range selected.
